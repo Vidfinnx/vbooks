@@ -1,4 +1,4 @@
-# Vidfinnx React Portfolio
+# MERN Book Search Engine
   ![Github licence](https://img.shields.io/badge/Vidfinnx-Awesome-brightgreen)
   ----
   # Table of Contents
